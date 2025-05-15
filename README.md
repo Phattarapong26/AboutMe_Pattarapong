@@ -1,112 +1,40 @@
-<h1 align="center">Hi 👋, I'm Phat Phattarapong Phengtavee</h1>
-<h3 align="center">Creative Developer & Lifelong Learner | Blending Software with Soul 🔧❤️</h3>
+<h1 align="center">Hi 👋, I'm Phat Phattarapong Phengtavee</h1> <h3 align="center">A curious builder who learns by doing | TypeScript, Python, Go & MongoDB lover</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Phattarapong26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+🧠 About Me
+🎓 Studying Computer Sciences & Software Innovation at Sripatum University
+🛠️ Coding helps me think. I enjoy building useful systems from scratch and solving real problems.
+🧑‍💻 Most of my frontend is written in TypeScript, using TailwindCSS primarily, and raw CSS when needed.
+🧬 I use Python for AI, Data cleaning, and automation scripts.
+🧰 Backend development with Node.js, Golang (Gin/Fiber), and Python (FastAPI).
+💾 I’m comfortable with many databases, but love working with MongoDB the most.
+🛠️ Tools? I try everything that helps get the job done faster and better.
+💼 What I Work Best As
+Frontend Developer (React/Next + Tailwind + TS)
+Full-stack Developer (Node.js | Go | Python)
+AI/Data Engineer (ETL, preprocessing, light ML)
+Internal Tools Builder (Dashboards, admin, workflows)
+🛠️ Tech Stack
+🧑‍💻 Languages
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Phattarapong26&label=Profile%20views&color=0e75b6&style=flat" alt="Phattarapong26" />
-</p>
+<p> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </p>
+🌐 Frontend
 
-- 🎓 I'm a junior at **Sripatum University**, Thailand — specializing in **Computer Science & Software Innovation Development**  
-- 💡 I’m passionate about **building systems that matter** — from scalable web apps to data-driven platforms  
-- 🔭 Currently sharpening my skills to become a **Full-Stack Developer, Data Engineer, and Software Engineer**  
-- 🧠 I combine **creative intuition** with **logical problem solving** — not just code that works, but code that *feels right*  
-- ✨ I believe in learning by doing — experimenting, breaking, rebuilding, and always improving  
-- 📫 Reach out to me at **phattarapong.phe@gmail.com**  
-- ⚡ Fun fact: I’m more excited by **creating new things** than refining old ones (but I still care about clean code 😄)  
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
+🔙 Backend
 
----
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Go Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
+🧪 AI & Data Tools
 
-## 🔥 My Stats
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Phattarapong26&label=Profile%20views&color=0e75b6&style=flat" alt="Phattarapong26" />
-</p>
----
+<p> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/BeautifulSoup-3D6117?style=for-the-badge&logo=python&logoColor=white"/> </p>
+🗃️ Databases
 
-## 🧑‍💻 Languages & Programming
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-</p>
+<p> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> </p>
+⚙️ Tools & DevOps
 
----
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
+🖌️ Design & IDEs
 
-## 🌐 Web Development
-
-### 🔹 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50"/>
-</p>
-
-### 🔸 Backend
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://miro.medium.com/v2/1*a7ytXef1ykQ6X4ieVz-PUg.png" width="75" height="40"/>
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40"/>
-  <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="50"/>
-  <img src="https://avatars.githubusercontent.com/u/136738596?v=4" width="50"/>
-</p>
-
----
-
-## 📊 Data Engineering & Data Science
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="60"/>
-  <img src="https://img.icons8.com/color/512/pandas.png" width="40"/>
-  <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" width="60"/>
-  <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" width="40"/>
-</p>
-
----
-
-## 🗄️ Databases & Caching
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1024/1*UYY3_DdeTQY8HRYm-RkP9Q.png" width="40"/>
-</p>
-
----
-
-## ⚙️ Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
----
-
-## 🎨 UI/UX & IDEs
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/jetbrains-icon-2048x2048-f1almn4u.png" width="40"/>
-  <img src="https://cdn.creazilla.com/icons/3253718/eclipse-icon-icon-md.png" width="40"/>
-  <img src="https://ss1.hevs.io/sw/img/android-studio-icon.png" width="40"/>
-</p>
-
----
-
-## 🌍 Connect with Me
-<p align="left">
-  <a href="https://web.facebook.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/thirough5/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-</p>
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Phattarapong26&show_icons=true&theme=radical" alt="Phattarapong's GitHub stats"/> </p>
+📫 Connect With Me
+<p> <a href="mailto:phattarapong.phe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/thirough5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
