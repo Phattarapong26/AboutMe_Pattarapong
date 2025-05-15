@@ -41,15 +41,38 @@ I might not know everything (who does?), but I've got enough curiosity to make u
 
 ## 🌐 Web Development
 🔹 Frontend
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/> &nbsp; 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="45"/> 
-  </a> &nbsp; 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40"/> &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/> &nbsp;
+<p align="left" style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45"/>
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45"/>
+  </a>
+
+  <!-- Vite -->
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="45"/>
+  </a>
+
+  <!-- TailwindCSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45"/>
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45"/>
+  </a>
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45"/>
+  </a>
 </p>
+
 
 🔸 Backend
 <p align="left"> 
