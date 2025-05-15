@@ -16,8 +16,9 @@
 ---
 
 ## 🔥 My Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sangketkit01&show_icons=true&locale=en" alt="sangketkit01" /></p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Phattarapong26&label=Profile%20views&color=0e75b6&style=flat" alt="Phattarapong26" />
+</p>
 ---
 
 ## 🧑‍💻 Languages & Programming
